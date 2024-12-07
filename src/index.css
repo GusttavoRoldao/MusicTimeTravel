@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "instabread";
+  src: url("./fonts/instabread/instabread.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "londrina";
+  src: url("./fonts/londrina/londrina.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "pinkblue";
+  src: url("./fonts/pinkblue/PinkBlue.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "neonbines";
+  src: url("./fonts/neonbines/NeonBines.OTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "bytebounce";
+  src: url("./fonts/bytebounce/ByteBounce.TTF") format("opentype");
+  font-style: normal;
+  font-display: swap;
+}
